@@ -91,8 +91,7 @@
     position: relative;
   }
   #page1 h1::before {
-    content: "EAT. DRINK. PLAY.";
-    position: absolute;
+    content: "UTSAV 2k24";
     color: black;
     top: -6px;
     left: -6px;
